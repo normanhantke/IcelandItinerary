@@ -70,7 +70,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* Gullfoss Waterfall 🌊 (~15 min drive, \< 1h)
 	* Kerið Crater 🕳️ (~45 min drive, \< 1h)
 	* Return to Reykjavik or stay in Selfoss (~1 hour drive)
-	* <small><strong>Consider skipping Gullfoss, as it's one of the more touristy spots and the day is very packed. Leaving Kerid for a little detour on the way back from Vik to Reykjavik might be a good option, too. Skipping both of them would shave ~3 hours off this day-trip.</strong></small>
+	* <span style="font-size: smaller; font-weight: bold;">Consider skipping Gullfoss, as it's one of the more touristy spots and the day is very packed. Leaving Kerid for a little detour on the way back from Vik to Reykjavik might be a good option, too. Skipping both of them would shave ~3 hours off this day-trip.</span>
 
 
 ## Day 4: Roadtrip to Vik 🏔️
