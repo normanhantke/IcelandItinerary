@@ -51,6 +51,8 @@ title: "Iceland Itinerary"
 
 My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE>
 
+🪓 denotes places seen in Vikings
+
 ---
 
 # Packing List
@@ -181,8 +183,8 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* The Saga of Erik the Red in Eyrarbakki 🏘️ (~1 hour 30 minutes from Reykjavik, on the way to Seljalandsfoss)
 	* Seljalandsfoss Waterfall 💦 (1-2 hours): Witness a waterfall you can walk behind.
 	* Nauthúsagil Ravine 🌳: A hidden gem where you can walk between moss-covered canyon walls and even behind a small waterfall. (~20 minutes from Seljalandsfoss)
-	* Skógafoss Waterfall 🌊 (1-2 hours): Marvel at one of Iceland's largest waterfalls.
-	* Kvernufoss Waterfall 💦: A secluded waterfall neighboring Skógafoss, offering tranquility away from the crowds. (~5 minutes drive from Skógafoss, followed by a short hike)
+	* 🪓 Skógafoss Waterfall 🌊 (1-2 hours): Marvel at one of Iceland's largest waterfalls.
+	* 🪓 Kvernufoss Waterfall 💦: A secluded waterfall neighboring Skógafoss, offering tranquility away from the crowds. (~5 minutes drive from Skógafoss, followed by a short hike)
 
 ---
 
@@ -190,7 +192,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 
 
 * **In and Around Vik**
-	* Dyrhólaey Arch 🌊: A small peninsula, or promontory, noted for its stunning arch in the sea which puffins often frequent in the summer. (~20 minutes from Vik)
+	* 🪓 Dyrhólaey Arch 🌊: A small peninsula, or promontory, noted for its stunning arch in the sea which puffins often frequent in the summer. (~20 minutes from Vik)
 	* Reynisfjara Black Sand Beach 🖤🏖️ (1-3 hours): Witness the stark contrast of black sands against the crashing waves, and admire the basalt columns.
 
 ---
