@@ -1,5 +1,3 @@
-<h1 style="color: red;">Checked boxes do not persist when closing the tab or the browser!!!</h1>
-
 <h3>Clothing</h3> 
 <input type="checkbox" id="thermalUnderwear" name="clothing1">&nbsp;<label for="thermalUnderwear">**Thermal Underwear**: Essential for layering.</label><br>
 <input type="checkbox" id="warmSweaters" name="clothing2">&nbsp;<label for="warmSweaters">**Warm Sweaters/Fleece**: Wool or synthetic.</label><br>
