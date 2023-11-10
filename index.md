@@ -115,10 +115,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 
 
 <a name="Reykjavik">
-
 # Reykjavik Sights & Activities
-
-</a>
 
 * **Downtown Reykjavik**
 	* Hallgrímskirkja church 🏰 (1h)
@@ -142,10 +139,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 ---
 
 <a name="Roadtrip">
-
 # To and From Vik
-
-</a>
 
 * **Sorted from Reykjavik to Vik**
 	* Rauðhólar Red Hills ⛰️: Remnants of a cluster of pseudocraters in Reykjavik. It's a beautiful area for a short hike and offers unique geological sights. (~20 min drive, 1h)
@@ -160,10 +154,8 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 ---
 
 <a name="Vik">
-
 # In and Around Vik
 
-</a>
 
 * **In and Around Vik**
 	* Dyrhólaey Arch 🌊: A small peninsula, or promontory, noted for its stunning arch in the sea which puffins often frequent in the summer. (~20 minutes from Vik)
