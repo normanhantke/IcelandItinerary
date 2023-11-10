@@ -5,6 +5,7 @@ title: "Iceland Itinerary"
 
 # Table of Contents
 - [Important Websites and Info](#important-websites-and-info)
+- [Packing List](#packing-list)
 - [Iceland Itinerary](#iceland-itinerary)
 	- [Day 1: Arrival & Reykjavik](#day-1-arrival--reykjavik-)
 	- [Day 2: Reykjavik Exploration](#day-2-reykjavik-exploration-)
@@ -39,6 +40,11 @@ title: "Iceland Itinerary"
 
 My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE>
 
+---
+
+# Packing List
+
+[Packing List](PackingList.md)
 
 ---
 
