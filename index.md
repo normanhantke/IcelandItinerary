@@ -32,9 +32,9 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* Depart at 14:10 from Berlin
 	* Arrive in Iceland at 15:50
 *  **Arrival at Keflavik International Airport**
-  * Get Prepaid SIM cards at the airport
-  * Get rental car at the airport or later in Reykjavik (Get insurance!)
-  * Drive to Reykjavik (~45 minutes): Start your journey in the vibrant capital.
+	* Get Prepaid SIM cards at the airport
+	* Get rental car at the airport or later in Reykjavik (Get insurance!)
+	* Drive to Reykjavik (~45 minutes): Start your journey in the vibrant capital.
 * **Explore Reykjavik**
 	* Probably there's only time for a stroll through the city.
 	* [Reykjavik Sights and Activities](#Reykjavik)
