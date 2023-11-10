@@ -70,7 +70,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* Gullfoss Waterfall 🌊 (~15 min drive, \< 1h)
 	* Kerið Crater 🕳️ (~45 min drive, \< 1h)
 	* Return to Reykjavik or stay in Selfoss (~1 hour drive)
-	* **<sub>Consider skipping Gullfoss, as it's one of the more touristy spots and the day is very packed. Leaving Kerid for a little detour on the way back from Vik to Reykjavik might be a good option, too. Skipping both of them would shave ~3 hours off this day-trip.</sub>**
+	* <span style="font-size: smaller; font-weight: bold;">Consider skipping Gullfoss, as it's one of the more touristy spots and the day is very packed. Leaving Kerid for a little detour on the way back from Vik to Reykjavik might be a good option, too. Skipping both of them would shave ~3 hours off this day-trip.</span>
 
 
 ## Day 4: Roadtrip to Vik 🏔️
@@ -91,7 +91,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* Fjaðrárgljúfur Canyon and Fjaðrá River Walk 🏞️ (~45 min drive, 1-3h): A breathtakingly beautiful canyon. Before or after the canyon, take a tranquil walk along the river enjoying the scenic beauty.
 	* Kirkjubæjarklaustur Wonders 🌳: Explore various attractions in the area like Systrafoss waterfall and the Kirkjugólfið, or 'Church Floor', which is a natural basalt column floor. (~15 min drive, 1-2h)
 	* Return to Vik (~1h)
-	* **<sub>It's hard to get useful estimates how long to spend at these, so we'll need to be a bit flexible to keep it chill here.</sub>**
+	* <span style="font-size: smaller; font-weight: bold;">It's hard to get useful estimates how long to spend at these, so we'll need to be a bit flexible to keep it chill here.</span>**
 * **Night**
 	* Return to Vik and stay.
 	* [In and Around Vik](#Vik)
