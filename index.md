@@ -9,8 +9,8 @@ title: "Iceland Itinerary"
 	- [Day 1: Arrival & Reykjavik](#day-1-arrival--reykjavik-)
 	- [Day 2: Reykjavik Exploration](#day-2-reykjavik-exploration-)
 	- [Day 3: Golden Circle](#day-3-golden-circle-)
-	- [Day 4: Roadtrip to Vik](#day4)
-	- [Day 5: East of Vik](#day5)
+	- [Day 4: Roadtrip to Vik](#day-4-roadtrip-to-vik-)
+	- [Day 5: East of Vik](#day-5-east-of-vik-)
 	- [Day 6: Return to Reykjavik](#day-6-return-to-reykjavik-)
 	- [Day 7: Departure](#day-7-departure-)
 - [Reykjavik Sights & Activities](#reykjavik-sights-and-activities)
@@ -81,7 +81,6 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 
 
 ## Day 4: Roadtrip to Vik 🏔️
-[day4]: # "Day 4: Roadtrip to Vik"
 
 * **Drive to Vik**
 	* [On the way to Vik](#Roadtrip)
@@ -92,7 +91,6 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 
 
 ## Day 5: East of Vik 🏔️
-[day5]: # "Day 5: East of Vik"
 
 * **East of Vik (Total ca. 7-12 hours)**
 	* Hjörleifshöfði Cave and Hike ⛰️: A significant historical promontory with a cave and incredible panoramic views from the top. (~15 min drive, 2-4h)
@@ -116,7 +114,6 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 
 
 ## Day 7: Departure ✈️
-[day7]: # "Day 7: Departure"
 
 * **Departure Preparations**
 	* Pack and check out of your accommodation.
