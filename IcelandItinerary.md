@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Iceland Itinerary"
+permalink: https://normanhantke.github.io/IcelandItinerary/
+---
+
+
 # Important Websites and Info
 
 * Vor der Reise:
