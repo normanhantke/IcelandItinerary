@@ -6,7 +6,7 @@ title: "Iceland Itinerary"
 # Table of Contents
 - [Important Websites and Info](#important-websites-and-info)
 - [Iceland Itinerary](#iceland-itinerary)
-- [Reykjavik Sights & Activities](#reykjavik-sights-activities)
+- [Reykjavik Sights & Activities](#reykjavik-sights-and-activities)
 - [To and From Vik](#to-and-from-vik)
 - [In and Around Vik](#in-and-around-vik)
 - [Hotels](#hotels)
