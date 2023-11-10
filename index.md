@@ -3,6 +3,15 @@ layout: page
 title: "Iceland Itinerary"
 ---
 
+# Table of Contents
+- [Important Websites and Info](#important-websites-and-info)
+- [Iceland Itinerary](#iceland-itinerary)
+- [Reykjavik Sights & Activities](#reykjavik-sights-activities)
+- [To and From Vik](#to-and-from-vik)
+- [In and Around Vik](#in-and-arond-vik)
+- [Cost Estimation](#cost-estimation)
+
+
 # Important Websites and Info
 
 * Vor der Reise:
@@ -176,7 +185,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 
 ---
 
-# Cost estimation
+# Cost Estimation
 
 * **Flights**
 	* BER-REY: ~360€ p.p. (direct flight)
