@@ -12,6 +12,7 @@ title: "Iceland Itinerary"
 - [Hotels](#hotels)
 - [Cost Estimation](#cost-estimation)
 
+---
 
 # Important Websites and Info
 
