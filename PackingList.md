@@ -20,10 +20,10 @@
 <h3>Travel Essentials</h3>
 <input type="checkbox" id="backpack" name="travel1">&nbsp;<label for="backpack">**Backpack**: For day trips and hiking.</label><br><input type="checkbox" id="sunglasses" name="travel2">&nbsp;<label for="sunglasses">**Sunglasses and Sunscreen**: Protection against UV rays.</label><br>
 <input type="checkbox" id="waterBottle" name="travel3">&nbsp;<label for="waterBottle">**Water Bottle**: Stay hydrated.</label><br>
+<input type="checkbox" id="waterBottle" name="travel17">&nbsp;<label for="thermalFlask">**Thermal Flask**: For hot drinks during your road trips, especially in colder weather.</label><br>
 <input type="checkbox" id="maps" name="travel4">&nbsp;<label for="maps">**Maps and Guidebooks**: For navigation and information.</label><br>
 <input type="checkbox" id="insurance" name="travel5">&nbsp;<label for="insurance">**Travel Insurance Documents**: Always carry a copy.</label><br>
 <input type="checkbox" id="passport" name="travel6">&nbsp;<label for="passport">**Passport and ID**: Essential for international travel.</label><br>
-
 <h3>Toiletries and Health</h3>
 <input type="checkbox" id="toiletriesKit" name="health1">&nbsp;<label for="toiletriesKit">**Basic Toiletries Kit**: Toothbrush, toothpaste, shampoo, etc.</label><br>
 <input type="checkbox" id="lipBalm" name="health2">&nbsp;<label for="lipBalm">**Lip Balm and Moisturizer**: To combat dry weather.</label><br>
