@@ -34,7 +34,8 @@ title: "Iceland Itinerary"
   * <https://www.road.is/travel-info/road-conditions-and-weather>
   * <https://safetravel.is>: Provides travel alerts, safety information, and tips for various activities in Iceland.
   * <https://island.is/en/o/transport-authority>: For driving regulations and information
-
+* General Info about Iceland
+  * Iceland uses European plug type C, which means we don't need adapters.
 
 My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE>
 
