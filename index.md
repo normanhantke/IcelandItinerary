@@ -12,7 +12,7 @@ title: "Iceland Itinerary"
 	- [Day 4: Roadtrip to Vik](#day4)
 	- [Day 5: East of Vik](#day5)
 	- [Day 6: Return to Reykjavik](#day-6-return-to-reykjavik-)
-	- [Day 7: Departure](#day7)
+	- [Day 7: Departure](#day-7-departure-)
 - [Reykjavik Sights & Activities](#reykjavik-sights-and-activities)
 - [To and From Vik](#to-and-from-vik)
 - [In and Around Vik](#in-and-around-vik)
@@ -89,7 +89,6 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 * **Night**
 	* Stay in Vik: Enjoy the coastal views and stay.
 	* [In and Around Vik](#Vik)
-
 
 
 ## Day 5: East of Vik 🏔️
