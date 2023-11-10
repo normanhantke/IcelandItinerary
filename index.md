@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: page
+title: "Iceland Itinerary"
 ---
 
 # Important Websites and Info
