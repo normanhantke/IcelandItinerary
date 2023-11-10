@@ -9,10 +9,10 @@ title: "Iceland Itinerary"
 	- [Day 1: Arrival & Reykjavik](#day-1-arrival--reykjavik-)
 	- [Day 2: Reykjavik Exploration](#day-2-reykjavik-exploration-)
 	- [Day 3: Golden Circle](#day-3-golden-circle-)
-	- [Day 4: Roadtrip to Vik](#day-4-roadtrip-to-vik)
-	- [Day 5: East of Vik](#day-5-east-of-vik)
+	- [Day 4: Roadtrip to Vik](#day4)
+	- [Day 5: East of Vik](#day5)
 	- [Day 6: Return to Reykjavik](#day-6-return-to-reykjavik-)
-	- [Day 7: Departure](#day-7-departure)
+	- [Day 7: Departure](#day7)
 - [Reykjavik Sights & Activities](#reykjavik-sights-and-activities)
 - [To and From Vik](#to-and-from-vik)
 - [In and Around Vik](#in-and-around-vik)
@@ -80,8 +80,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* <span style="font-size: smaller; font-weight: bold;">Consider skipping Gullfoss, as it's one of the more touristy spots and the day is very packed. Leaving Kerid for a little detour on the way back from Vik to Reykjavik might be a good option, too. Skipping both of them would shave ~3 hours off this day-trip.</span>
 
 
-## Day 4: Roadtrip to Vik 🏔️
-
+<h2 id="day4">Day 4: Roadtrip to Vik 🏔️</h2>
 * **Drive to Vik**
 	* [On the way to Vik](#Roadtrip)
 	* Driving straight from Selfoss to Vik would be ~1.5-2h.
@@ -91,8 +90,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 
 
 
-## Day 5: East of Vik 🏔️
-
+<h2 id="day5">Day 5: East of Vik 🏔️</h2>
 * **East of Vik (Total ca. 7-12 hours)**
 	* Hjörleifshöfði Cave and Hike ⛰️: A significant historical promontory with a cave and incredible panoramic views from the top. (~15 min drive, 2-4h)
 	* Fjaðrárgljúfur Canyon and Fjaðrá River Walk 🏞️ (~45 min drive, 1-3h): A breathtakingly beautiful canyon. Before or after the canyon, take a tranquil walk along the river enjoying the scenic beauty.
@@ -114,8 +112,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* Stay in Reykjavik.
 
 
-## Day 7: Departure ✈️
-
+<h2 id="day7">Day 7: Departure ✈️</h2>
 * **Departure Preparations**
 	* Pack and check out of your accommodation.
 	* Drive to Keflavik International Airport (~45 minutes from Reykjavik)
