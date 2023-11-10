@@ -56,7 +56,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* Drive to Reykjavik (~45 minutes): Start your journey in the vibrant capital.
 * **Explore Reykjavik**
 	* Probably there's only time for a stroll through the city.
-	* [Reykjavik Sights and Activities](#reykjavik-sights-and-activities)
+	* [Reykjavik Sights and Activities](#reykjavik-sights--activities)
 * **Night**
 	* Stay in Reykjavik.
 
@@ -64,7 +64,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 ## Day 2: Reykjavik Exploration 🌆
 
 * **Explore Reykjavik**
-	* [Reykjavik Sights and Activities](#reykjavik-sights-and-activities)
+	* [Reykjavik Sights and Activities](#reykjavik-sights--activities)
 * **Night**
 	* Stay in Reykjavik.
 
@@ -108,7 +108,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 * **Return to Reykjavik**
 	* [On the way back to Reykjavik](#to-and-from-vik)
 	* Drive back to Reykjavik. (Driving straight from Vik to Reykjavik would be ~2.5h)
-	* [Reykjavik Sights and Activities](#reykjavik-sights-and-activities)
+	* [Reykjavik Sights and Activities](#reykjavik-sights--activities)
 * **Night**
 	* Stay in Reykjavik.
 
