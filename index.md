@@ -56,7 +56,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* Drive to Reykjavik (~45 minutes): Start your journey in the vibrant capital.
 * **Explore Reykjavik**
 	* Probably there's only time for a stroll through the city.
-	* [Reykjavik Sights and Activities](#Reykjavik)
+	* [Reykjavik Sights and Activities](#reykjavik-sights-and-activities)
 * **Night**
 	* Stay in Reykjavik.
 
@@ -64,7 +64,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 ## Day 2: Reykjavik Exploration 🌆
 
 * **Explore Reykjavik**
-	* [Reykjavik Sights and Activities](#Reykjavik)
+	* [Reykjavik Sights and Activities](#reykjavik-sights-and-activities)
 * **Night**
 	* Stay in Reykjavik.
 
@@ -83,11 +83,11 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 ## Day 4: Roadtrip to Vik 🚗
 
 * **Drive to Vik**
-	* [On the way to Vik](#Roadtrip)
+	* [On the way to Vik](#to-and-from-vik)
 	* Driving straight from Selfoss to Vik would be ~1.5-2h.
 * **Night**
 	* Stay in Vik: Enjoy the coastal views and stay.
-	* [In and Around Vik](#Vik)
+	* [In and Around Vik](#in-and-around-vik)
 
 
 ## Day 5: East of Vik 🌳
@@ -100,15 +100,15 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* <span style="font-size: smaller; font-weight: bold;">It's hard to get useful estimates how long to spend at these, so we'll need to be a bit flexible to keep it chill here.</span>**
 * **Night**
 	* Return to Vik and stay.
-	* [In and Around Vik](#Vik)
+	* [In and Around Vik](#in-and-around-vik)
 
 
 ## Day 6: Return to Reykjavik 🌆
 
 * **Return to Reykjavik**
-	* [On the way back to Reykjavik](#Roadtrip)
+	* [On the way back to Reykjavik](#to-and-from-vik)
 	* Drive back to Reykjavik. (Driving straight from Vik to Reykjavik would be ~2.5h)
-	* [Reykjavik Sights and Activities](#Reykjavik)
+	* [Reykjavik Sights and Activities](#reykjavik-sights-and-activities)
 * **Night**
 	* Stay in Reykjavik.
 
