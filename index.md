@@ -8,7 +8,8 @@ title: "Iceland Itinerary"
 - [Iceland Itinerary](#iceland-itinerary)
 - [Reykjavik Sights & Activities](#reykjavik-sights-activities)
 - [To and From Vik](#to-and-from-vik)
-- [In and Around Vik](#in-and-arond-vik)
+- [In and Around Vik](#in-and-around-vik)
+- [Hotels](#hotels)
 - [Cost Estimation](#cost-estimation)
 
 
@@ -123,8 +124,6 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 
 ---
 
-
-<a name="Reykjavik">
 # Reykjavik Sights & Activities
 
 * **Downtown Reykjavik**
@@ -148,7 +147,6 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 
 ---
 
-<a name="Roadtrip">
 # To and From Vik
 
 * **Sorted from Reykjavik to Vik**
@@ -163,7 +161,6 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 
 ---
 
-<a name="Vik">
 # In and Around Vik
 
 
