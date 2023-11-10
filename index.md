@@ -47,6 +47,8 @@ title: "Iceland Itinerary"
   * Tipping is not a common practice in Iceland. Service charges are typically included in the bill at restaurants, and additional tipping is not expected. However, leaving small change or rounding up the bill as a token of appreciation is acceptable.
   * Be cautious when using hot water taps in Iceland. The hot water comes directly from geothermal sources and can be scalding hot. Always mix hot water with cold water for a comfortable temperature.
   * Shopping Hours: Most shops in Iceland are open from 10:00 AM to 6:00 PM on weekdays and shorter hours on weekends.
+
+
 My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE>
 
 ---
