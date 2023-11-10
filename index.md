@@ -13,7 +13,7 @@ title: "Iceland Itinerary"
 	- [Day 5: East of Vik](#day-5-east-of-vik-)
 	- [Day 6: Return to Reykjavik](#day-6-return-to-reykjavik-)
 	- [Day 7: Departure](#day-7-departure-)
-- [Reykjavik Sights & Activities](#reykjavik-sights-and-activities)
+- [Reykjavik Sights & Activities](#reykjavik-sights--activities)
 - [To and From Vik](#to-and-from-vik)
 - [In and Around Vik](#in-and-around-vik)
 - [Hotels](#hotels)
