@@ -80,7 +80,9 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* <span style="font-size: smaller; font-weight: bold;">Consider skipping Gullfoss, as it's one of the more touristy spots and the day is very packed. Leaving Kerid for a little detour on the way back from Vik to Reykjavik might be a good option, too. Skipping both of them would shave ~3 hours off this day-trip.</span>
 
 
-<h2 id="day4">Day 4: Roadtrip to Vik 🏔️</h2>
+## Day 4: Roadtrip to Vik 🏔️
+[day4]: # "Day 4: Roadtrip to Vik"
+
 * **Drive to Vik**
 	* [On the way to Vik](#Roadtrip)
 	* Driving straight from Selfoss to Vik would be ~1.5-2h.
@@ -90,7 +92,9 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 
 
 
-<h2 id="day5">Day 5: East of Vik 🏔️</h2>
+## Day 5: East of Vik 🏔️
+[day5]: # "Day 5: East of Vik"
+
 * **East of Vik (Total ca. 7-12 hours)**
 	* Hjörleifshöfði Cave and Hike ⛰️: A significant historical promontory with a cave and incredible panoramic views from the top. (~15 min drive, 2-4h)
 	* Fjaðrárgljúfur Canyon and Fjaðrá River Walk 🏞️ (~45 min drive, 1-3h): A breathtakingly beautiful canyon. Before or after the canyon, take a tranquil walk along the river enjoying the scenic beauty.
@@ -112,7 +116,9 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* Stay in Reykjavik.
 
 
-<h2 id="day7">Day 7: Departure ✈️</h2>
+## Day 7: Departure ✈️
+[day7]: # "Day 7: Departure"
+
 * **Departure Preparations**
 	* Pack and check out of your accommodation.
 	* Drive to Keflavik International Airport (~45 minutes from Reykjavik)
