@@ -5,19 +5,19 @@ layout: default
 # Important Websites and Info
 
 * Vor der Reise:
-  * ELEFAND: https://krisenvorsorgeliste.diplo.de
+  * ELEFAND: <https://krisenvorsorgeliste.diplo.de>
   * Auslandskrankenversicherung
 * Emergency
   * Emergency number: 112
   * The official **112 Iceland app** can send your location to the emergency services if needed.
 * Weather and Road Conditions
-  * https://en.vedur.is: For up-to-date weather forecasts, **including aurora forecasts**.
-  * https://www.road.is/travel-info/road-conditions-and-weather
-  * https://safetravel.is: Provides travel alerts, safety information, and tips for various activities in Iceland.
-  * https://island.is/en/o/transport-authority: For driving regulations and information
+  * <https://en.vedur.is>: For up-to-date weather forecasts, **including aurora forecasts**.
+  * <https://www.road.is/travel-info/road-conditions-and-weather>
+  * <https://safetravel.is>: Provides travel alerts, safety information, and tips for various activities in Iceland.
+  * <https://island.is/en/o/transport-authority>: For driving regulations and information
 
 
-My Map: https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
+My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE>
 
 
 ---
