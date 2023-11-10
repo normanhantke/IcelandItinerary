@@ -115,7 +115,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* Fjaðrárgljúfur Canyon and Fjaðrá River Walk 🏞️ (~45 min drive, 1-3h): A breathtakingly beautiful canyon. Before or after the canyon, take a tranquil walk along the river enjoying the scenic beauty.
 	* Kirkjubæjarklaustur Wonders 🌳: Explore various attractions in the area like Systrafoss waterfall and the Kirkjugólfið, or 'Church Floor', which is a natural basalt column floor. (~15 min drive, 1-2h)
 	* Return to Vik (~1h)
-	* <span style="font-size: smaller; font-weight: bold;">It's hard to get useful estimates how long to spend at these, so we'll need to be a bit flexible to keep it chill here.</span>**
+	* <span style="font-size: smaller; font-weight: bold;">It's hard to get useful estimates how long to spend at these, so we'll need to be a bit flexible to keep it chill here.</span>
 * **Night**
 	* Return to Vik and stay.
 	* [In and Around Vik](#in-and-around-vik)
