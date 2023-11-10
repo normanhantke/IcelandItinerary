@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Important Websites and Info
 
 * Vor der Reise:
