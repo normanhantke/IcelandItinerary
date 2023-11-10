@@ -6,6 +6,13 @@ title: "Iceland Itinerary"
 # Table of Contents
 - [Important Websites and Info](#important-websites-and-info)
 - [Iceland Itinerary](#iceland-itinerary)
+	- [Day 1: Arrival & Reykjavik](#day-1-arrival--reykjavik-)
+	- [Day 2: Reykjavik Exploration](#day-2-reykjavik-exploration-)
+	- [Day 3: Golden Circle](#day-3-golden-circle-)
+	- [Day 4: Roadtrip to Vik](#day-4-roadtrip-to-vik-)
+	- [Day 5: East of Vik](#day-5-east-of-vik-)
+	- [Day 6: Return to Reykjavik](#day-6-return-to-reykjavik-)
+	- [Day 7: Departure](#day-7-departure-)
 - [Reykjavik Sights & Activities](#reykjavik-sights-and-activities)
 - [To and From Vik](#to-and-from-vik)
 - [In and Around Vik](#in-and-around-vik)
