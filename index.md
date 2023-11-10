@@ -80,7 +80,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* <span style="font-size: smaller; font-weight: bold;">Consider skipping Gullfoss, as it's one of the more touristy spots and the day is very packed. Leaving Kerid for a little detour on the way back from Vik to Reykjavik might be a good option, too. Skipping both of them would shave ~3 hours off this day-trip.</span>
 
 
-## Day 4: Roadtrip to Vik 🌆
+## Day 4: Roadtrip to Vik 🚗
 
 * **Drive to Vik**
 	* [On the way to Vik](#Roadtrip)
@@ -90,7 +90,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* [In and Around Vik](#Vik)
 
 
-## Day 5: East of Vik 🏔️
+## Day 5: East of Vik 🌳
 
 * **East of Vik (Total ca. 7-12 hours)**
 	* Hjörleifshöfði Cave and Hike ⛰️: A significant historical promontory with a cave and incredible panoramic views from the top. (~15 min drive, 2-4h)
@@ -113,7 +113,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* Stay in Reykjavik.
 
 
-## Day 7: Departure ✈️
+## Day 7: Departure ✈
 
 * **Departure Preparations**
 	* Pack and check out of your accommodation.
