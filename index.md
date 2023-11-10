@@ -36,8 +36,17 @@ title: "Iceland Itinerary"
   * <https://safetravel.is>: Provides travel alerts, safety information, and tips for various activities in Iceland.
   * <https://island.is/en/o/transport-authority>: For driving regulations and information
 * General Info about Iceland
+  * Weather in April: <https://www.wohin-und-wann.de/when/europa/island/reykjavik/april/#seasonal-average>
+  * Sunrise and Sunset: (ca 6:00 / 21:00) <https://www.sunrise-and-sunset.com/de/sun/island/reykjavik/2024/april>
   * Iceland uses European plug type C, which means we don't need adapters.
-
+  * Language: The official language is Icelandic, but English is widely spoken, especially in tourist areas and by younger people.
+  * Connectivity: Iceland has good mobile network coverage and internet connectivity, even in remote areas.
+  * Off-road driving is strictly prohibited in Iceland to protect the delicate environment. 
+  * Right to Roam: Iceland, like other Nordic countries, has a 'right to roam' policy, which is different from Germany. This allows people to walk freely in nature, provided they respect private property and the environment.
+  * Public consumption of alcohol is more restricted in Iceland compared to Germany. Drinking in public places is generally not allowed.
+  * Tipping is not a common practice in Iceland. Service charges are typically included in the bill at restaurants, and additional tipping is not expected. However, leaving small change or rounding up the bill as a token of appreciation is acceptable.
+  * Be cautious when using hot water taps in Iceland. The hot water comes directly from geothermal sources and can be scalding hot. Always mix hot water with cold water for a comfortable temperature.
+  * Shopping Hours: Most shops in Iceland are open from 10:00 AM to 6:00 PM on weekdays and shorter hours on weekends.
 My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE>
 
 ---
