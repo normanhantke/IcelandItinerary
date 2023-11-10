@@ -1,3 +1,5 @@
+<h1 style="color: red;">Checked boxes to not persist when closing the tab or the browser!!!</h1>
+
 ### Clothing
 - [ ] **Thermal Underwear**: Essential for layering.
 - [ ] **Warm Sweaters/Fleece**: Wool or synthetic.
