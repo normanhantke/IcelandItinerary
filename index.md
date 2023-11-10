@@ -55,7 +55,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 
 # Packing List
 
-[Packing List](PackingList.md)
+[Packing List](PackingList.html)
 
 ---
 
