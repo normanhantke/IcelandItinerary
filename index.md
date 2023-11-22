@@ -200,13 +200,17 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 # Hotels
 
 * **Reykjavik 10.04. - 12.04.**
+	* <https://staedtereisen.weg.de/details/hotel/4112617/hotel-only?search.rooms%5B0%5D.adults=2&openx=true&search.departureIntervals=20240410-20240412&search.type=OSE&search.businessProfileId=HOLIDAYSWEGDE&search.destinationCities=155092&bf_subsource=S01HPV10S10RR01&search.accomodationOnly=true&search.checkin=20240410&search.checkout=20240412&extReferenceId=xtoy2b4jnz1tfeae0w&extReferenceType=OPENX&hdpSearchId=xtoy2b4jnz1tfeae0w&searchId=366742413&ft=double-price&businessProfileId=HOLIDAYSWEGDE>
+	* 303€ total 
+
 
 * **Selfoss 12.04. - 13.04.**
 
 * **Vik 13.04. - 15.04.**
 
 * **Reykjavik 15.04. - 16.04.**
-
+	* <https://staedtereisen.weg.de/details/hotel/224924/hotel-only?search.rooms%5B0%5D.adults=2&openx=true&search.departureIntervals=20240415-20240416&search.type=OSE&search.businessProfileId=HOLIDAYSWEGDE&search.destinationCities=155092&bf_subsource=S01HPV10S10RR01&search.accomodationOnly=true&search.checkin=20240415&search.checkout=20240416&extReferenceId=n34ridhyg2nmco5lk0&extReferenceType=OPENX&hdpSearchId=n34ridhyg2nmco5lk0&searchId=375430307&ft=double-price&businessProfileId=HOLIDAYSWEGDE>
+	* 146€ total
 ---
 
 # Cost Estimation
