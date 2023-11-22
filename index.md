@@ -210,7 +210,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 
 * **Reykjavik 15.04. - 16.04.**
 	* <https://staedtereisen.weg.de/details/hotel/224924/hotel-only?search.rooms%5B0%5D.adults=2&openx=true&search.departureIntervals=20240415-20240416&search.type=OSE&search.businessProfileId=HOLIDAYSWEGDE&search.destinationCities=155092&bf_subsource=S01HPV10S10RR01&search.accomodationOnly=true&search.checkin=20240415&search.checkout=20240416&extReferenceId=n34ridhyg2nmco5lk0&extReferenceType=OPENX&hdpSearchId=n34ridhyg2nmco5lk0&searchId=375430307&ft=double-price&businessProfileId=HOLIDAYSWEGDE>
-	* 146€ total
+	* 146€ total 
 ---
 
 # Cost Estimation
