@@ -224,11 +224,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* REY-BER: ~210€ p.p. (stop in Frankfurt)
 	* *sum per person: ~570€*
 * **Hotels**
-	* Reykjavik 10.04. - 12.04.: ~400-450€ total, incl. breakfast and free cancellation
-	* Selfoss 12.04. - 13.04.: ~200€ total, incl. breakfast and free cancellation
-	* Vik 13.04. - 15.04.: ~400€ total, incl. breakfast and free cancellation
-	* Reykjavik 10.04. - 12.04.: ~200€ total, incl. breakfast and free cancellation
-	* *sum per person: ~600€*
+	* *sum per person: 502€*
 * **Rental car**
 	* Rental car: ~400-1000€
 	* Insurance: ~100-150€
@@ -241,6 +237,6 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 * **Entry Tickets / Activities / Tours**
 	* *~100-200€ p.p.*
 * **Total Cost per Person:**
-	* **~1900€ - 2400€**
+	* **~1770€ - 2270€**
 
 
