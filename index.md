@@ -232,7 +232,6 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* *sum per person: ~300-400€*
 * **Food etc**
 	* Food: ~40€ p.p. per day, excluding breakfast
-	* SIM cards / data: ~20€ p.p.
 	* *sum per person: ~300€*
 * **Entry Tickets / Activities / Tours**
 	* *~100-200€ p.p.*
