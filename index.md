@@ -226,10 +226,10 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 * **Hotels**
 	* *sum per person: 502€*
 * **Rental car**
-	* Rental car: ~400-1000€
-	* Insurance: ~100-150€
-	* Gas: ~100-200€
-	* *sum per person: ~300-700€*
+	* Rental car: ~300-500€
+	* Insurance: ~150€
+	* Gas: ~150€
+	* *sum per person: ~300-400€*
 * **Food etc**
 	* Food: ~40€ p.p. per day, excluding breakfast
 	* SIM cards / data: ~20€ p.p.
@@ -237,6 +237,6 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 * **Entry Tickets / Activities / Tours**
 	* *~100-200€ p.p.*
 * **Total Cost per Person:**
-	* **~1770€ - 2270€**
+	* **~1770€ - 1970€**
 
 
