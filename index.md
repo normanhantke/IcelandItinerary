@@ -48,6 +48,7 @@ title: "Iceland Itinerary"
   * Be cautious when using hot water taps in Iceland. The hot water comes directly from geothermal sources and can be scalding hot. Always mix hot water with cold water for a comfortable temperature.
   * Shopping Hours: Most shops in Iceland are open from 10:00 AM to 6:00 PM on weekdays and shorter hours on weekends.
   * Be very careful when opening doors because they can easily be damaged by strong gusts or wind
+  * <https://parka.app/> App for parking tickets
 
 My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE>
 
