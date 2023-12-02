@@ -223,7 +223,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 * **Flights**
 	* BER-REY: ~390€ p.p. (direct flight)
 	* REY-BER: ~240€ p.p. (stop in Frankfurt)
-	* *sum per person: ~570€*
+	* *sum per person: ~630€*
 * **Hotels**
 	* *sum per person: 502€*
 * **Rental car**
