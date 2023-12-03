@@ -202,20 +202,32 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 # Hotels
 
 * **Reykjavik 10.04. - 12.04.**
-	* <https://staedtereisen.weg.de/details/hotel/4112617/hotel-only?search.rooms%5B0%5D.adults=2&openx=true&search.departureIntervals=20240410-20240412&search.type=OSE&search.businessProfileId=HOLIDAYSWEGDE&search.destinationCities=155092&bf_subsource=S01HPV10S10RR01&search.accomodationOnly=true&search.checkin=20240410&search.checkout=20240412&extReferenceId=xtoy2b4jnz1tfeae0w&extReferenceType=OPENX&hdpSearchId=xtoy2b4jnz1tfeae0w&searchId=366742413&ft=double-price&businessProfileId=HOLIDAYSWEGDE>
-	* 303€ total 
+	* Nordurey Hotel City Garden, Hrísateigur 14, Reykjavik
+	* 272,72€ total
+	* free cancellation until 03.04.24
+   	* check-in from 15:00, check-out until 11:00
+   	* reservation code: **10357225111**
 
 * **Selfoss 12.04. - 13.04.**
-	* <https://staedtereisen.weg.de/details/hotel/7202252/hotel-only?search.rooms%5B0%5D.adults=2&openx=true&search.departureIntervals=20240412-20240413&search.type=OSE&search.businessProfileId=HOLIDAYSWEGDE&search.destinationTag=ISLANDE&bf_subsource=S01HPV10S10RR01&search.accomodationOnly=true&search.checkin=20240412&search.checkout=20240413&extReferenceId=01avamu44x5ekk424o&extReferenceType=OPENX&hdpSearchId=01avamu44x5ekk424o&searchId=392903253&ft=double-price&businessProfileId=HOLIDAYSWEGDE>
-	* 207€ total
+	* Hotel Selfoss, Eyravegur 2, Selfoss
+	* 191,73€ total
+	* free cancellation until 08.04.24
+   	* check-in from 15:00, check-out until 11:00
+   	* reservation code: **183-416934**
  
 * **Vik 13.04. - 15.04.**
-	* <https://staedtereisen.weg.de/details/hotel/467005/hotel-only?search.rooms%5B0%5D.adults=2&openx=true&search.departureIntervals=20240413-20240415&search.type=OSE&search.businessProfileId=HOLIDAYSWEGDE&search.destinationTag=ISLANDE&bf_subsource=S01HPV10S10RR01&search.accomodationOnly=true&search.checkin=20240413&search.checkout=20240415&extReferenceId=cpwaee8zbwfct1c9ks&extReferenceType=OPENX&hdpSearchId=cpwaee8zbwfct1c9ks&searchId=378727243&ft=double-price&businessProfileId=HOLIDAYSWEGDE>
-	* 347€ total 
+	* Puffin Hotel Vík, Víkurbraut 26, Vik i Myrdal
+	* 352,20€ total
+	* free cancellation until 06.04.24
+   	* check-in from 15:00, check-out until 11:00
+   	* reservation code: **9208827520561**
 
 * **Reykjavik 15.04. - 16.04.**
-	* <https://staedtereisen.weg.de/details/hotel/224924/hotel-only?search.rooms%5B0%5D.adults=2&openx=true&search.departureIntervals=20240415-20240416&search.type=OSE&search.businessProfileId=HOLIDAYSWEGDE&search.destinationCities=155092&bf_subsource=S01HPV10S10RR01&search.accomodationOnly=true&search.checkin=20240415&search.checkout=20240416&extReferenceId=n34ridhyg2nmco5lk0&extReferenceType=OPENX&hdpSearchId=n34ridhyg2nmco5lk0&searchId=375430307&ft=double-price&businessProfileId=HOLIDAYSWEGDE>
-	* 146€ total
+	* Fosshotel Baron, Baronsstígur 2-4, Reykjavik
+	* 139,50€ total
+	* free cancellation until 13.04.24
+   	* check-in from 14:00, check-out until 12:00
+   	* reservation code: **10357226428**
    
 ---
 
