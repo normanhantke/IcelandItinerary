@@ -207,29 +207,29 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* Nordurey Hotel City Garden, Hrísateigur 14, Reykjavik
 	* 272,72€ total
 	* free cancellation until 03.04.24
-   	* check-in from 15:00, check-out until 11:00
-   	* reservation code: **10357225111**
+	* check-in from 15:00, check-out until 11:00
+	* reservation code: **10357225111**
 
 * **Selfoss 12.04. - 13.04.**
 	* Hotel Selfoss, Eyravegur 2, Selfoss
 	* 191,73€ total
 	* free cancellation until 08.04.24
-   	* check-in from 15:00, check-out until 11:00
-   	* reservation code: **183-416934**
+	* check-in from 15:00, check-out until 11:00
+	* reservation code: **183-416934**
  
 * **Vik 13.04. - 15.04.**
 	* Puffin Hotel Vík, Víkurbraut 26, Vik i Myrdal
 	* 352,20€ total
 	* free cancellation until 06.04.24
-   	* check-in from 15:00, check-out until 11:00
-   	* reservation code: **9208827520561**
+	* check-in from 15:00, check-out until 11:00
+	* reservation code: **9208827520561**
 
 * **Reykjavik 15.04. - 16.04.**
 	* Fosshotel Baron, Baronsstígur 2-4, Reykjavik
 	* 139,50€ total
 	* free cancellation until 13.04.24
-   	* check-in from 14:00, check-out until 12:00
-   	* reservation code: **10357226428**
+	* check-in from 14:00, check-out until 12:00
+	* reservation code: **10357226428**
    
 ---
 
