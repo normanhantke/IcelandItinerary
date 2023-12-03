@@ -74,7 +74,9 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 	* Arrive in Iceland at 15:50
 *  **Arrival at Keflavik International Airport**
 	* <s>Get Prepaid SIM cards at the airport</s> **Check your provider, but it seems it's not necessary:** <https://www.vodafone.de/privat/service/eu-regulierung.html>
-	* Get rental car at the airport or later in Reykjavik (Get insurance!)
+	* Get rental car at the airport
+ 		* Blue Car Rental @ 16:30
+     		* Booking ID: #360620
 	* Drive to Reykjavik (~45 minutes): Start your journey in the vibrant capital.
 * **Explore Reykjavik**
 	* Probably there's only time for a stroll through the city.
@@ -240,8 +242,7 @@ My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE
 * **Hotels**
 	* *sum per person: 491,08€*
 * **Rental car**
-	* Rental car: ~300-500€
-	* Insurance: ~150€
+	* Rental car + insurance: ~471,25€
 	* Gas: ~150€
 	* *sum per person: ~300-400€*
 * **Food etc**
