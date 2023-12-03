@@ -49,7 +49,8 @@ title: "Iceland Itinerary"
   * Shopping Hours: Most shops in Iceland are open from 10:00 AM to 6:00 PM on weekdays and shorter hours on weekends.
   * Be very careful when opening doors because they can easily be damaged by strong gusts or wind
   * <https://parka.app/> App for parking tickets
-
+  * Ab dem 1. Januar 2024 wird die isländische Regierung eine Umweltgebühr von 333 Kronen (ISK) pro Zimmer und Nacht erheben, die im Hotel zu entrichten ist.
+    
 My Map: <https://www.google.com/maps/d/edit?mid=1jYsnVqTVeCdxTuB-zJUQajJcTmwr5YE>
 
 🪓 denotes places seen in Vikings
